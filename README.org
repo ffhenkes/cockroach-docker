@@ -1,0 +1,3 @@
+# Cockroach Docker
+
+Just a simple docker to play with [[https://www.cockroachlabs.com/docs/][Cockroach]] for test and development purposes.
